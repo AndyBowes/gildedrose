@@ -7,6 +7,7 @@
 .idea
 bin
 build
+gradle
 target
 out
 test-output
